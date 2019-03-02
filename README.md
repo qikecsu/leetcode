@@ -1,1 +1,1 @@
-# an summry of solutions for ploblem in leetcode, 
+# an summry of solutions for ploblem in leetcode, in case of forgetting
